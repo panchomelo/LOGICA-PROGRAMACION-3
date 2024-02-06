@@ -16,22 +16,3 @@ if (!isNaN(numeroFloat)) {
     alert("dato incorrecto, por favor ingrese un número");
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
-}
